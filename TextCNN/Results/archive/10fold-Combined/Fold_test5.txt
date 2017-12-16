@@ -1,0 +1,10 @@
+
+Hamming loss (lower is better [0,1]): 0.18333333333333332
+Accuracy score (higher is better [0,1]): 0.6184027777777777
+Jaccard similarity score (higher is better [0,1]): 0.618402777778
+F1 score: 0.687654282028
+Subset accuracy (higher is better [0,1]): 0.480555555556
+Average precision score (higher is better [0,1]): 0.592033286538
+Ranking Loss: (lower is better [0,1]) 0.358680555556
+Average Micro Precision: 0.723170731707
+Average Micro Recall: 0.663310961969

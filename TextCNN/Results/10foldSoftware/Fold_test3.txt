@@ -1,0 +1,12 @@
+Classification Report:
+                    precision    recall  f1-score   support
+
+   Feature Request       0.62      0.33      0.43        15
+Information Giving       0.75      0.78      0.77        90
+ Problem Discovery       0.76      0.79      0.77        99
+
+       avg / total       0.75      0.75      0.74       204
+
+Average Micro Precision: 0.75
+Average Micro Recall: 0.75
+Subset accuracy (higher is better [0,1]): 0.75
