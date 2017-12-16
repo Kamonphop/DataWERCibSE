@@ -1,0 +1,12 @@
+Classification Report:
+             precision    recall  f1-score   support
+
+          0       0.83      0.50      0.62        20
+          1       0.66      0.73      0.69        79
+          2       0.71      0.70      0.70        80
+
+avg / total       0.70      0.69      0.69       179
+
+Average Micro Precision: 0.692737430168
+Average Micro Recall: 0.692737430168
+Subset accuracy (higher is better [0,1]): 0.692737430168

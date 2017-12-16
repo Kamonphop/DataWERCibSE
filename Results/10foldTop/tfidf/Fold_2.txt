@@ -1,0 +1,19 @@
+Classification Report:
+             precision    recall  f1-score   support
+
+          0       0.81      0.65      0.72       182
+          1       0.69      0.62      0.66       192
+          2       0.72      0.58      0.64       253
+          3       0.61      0.59      0.60       285
+
+avg / total       0.70      0.61      0.65       912
+
+Hamming loss (lower is better [0,1]): 0.2107638888888889
+Accuracy score (higher is better [0,1]): 0.5666666666666665
+Jaccard similarity score (higher is better [0,1]): 0.566666666667
+F1 score: 0.632594083289
+Subset accuracy (higher is better [0,1]): 0.433333333333
+Average precision score (higher is better [0,1]): 0.557443351041
+Ranking Loss: (lower is better [0,1]) 0.416087962963
+Average Micro Precision: 0.69038701623
+Average Micro Recall: 0.606359649123
